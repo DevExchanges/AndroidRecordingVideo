@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Recording</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="album_name">CameraSample</string>
+</resources>
